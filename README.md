@@ -8,7 +8,7 @@
     <a href="https://github.com/akash-dutta-dev/BloggerApp/issues">Request Feature</a>
   </p>
   <a href="#">
-    <img src="./assets/socialbeingHome.JPG" alt="Logo" width="1080" height="660">
+    <img src="./assets/socialbeingHome.JPG" alt="Logo" width="1080" height="450">
   </a>
 
 </p>
@@ -46,7 +46,7 @@ Hey there, welcome to SocialBeing – the social media app that's all about secu
 - Friend Requests: Connect with others by sending and accepting friend requests.
 - Direct Messaging: Chat privately with friends through one-on-one or group messaging.
 - Notifications: Receive real-time alerts for likes, comments, friend requests, and more.
-- Privacy Settings: Control who sees your content with customizable privacy options for posts and profile.
+- Privacy Settings: Control who sees your content with customizable privacy options for posts and profiles.
 - Explore Page: Discover new people, content, and communities based on interests and trends.
 - Groups and Communities: Join or create groups centered around shared interests or activities.
 - Reactions: React to posts with a variety of emoticons to express feelings beyond a simple like.
@@ -54,6 +54,7 @@ Hey there, welcome to SocialBeing – the social media app that's all about secu
 - Search Functionality: Easily find friends, content, and communities with a robust search feature.
 - Dark Mode: Toggle between light and dark modes for personalized visual preferences.
 - Emoji Keyboard: Express yourself with a wide range of emojis in comments and messages.
+- <i>more coming soon!!</i>
 
 # Built With
 
@@ -98,8 +99,7 @@ npm run dev
 ```
 
 - The project will start running at `http://localhost:3000/`
-- You will be prompted with a login box, you can enter any credentials to sign up. (Example - test@gmail.com, password).
-- For new sign-ups, a few sample tasks will be automatically created.
+- For new sign-ups, a few sample posts will be automatically created.
 - That's it. Enjoy.
   <br>
 
