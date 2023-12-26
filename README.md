@@ -8,7 +8,7 @@
     <a href="https://github.com/akash-dutta-dev/BloggerApp/issues">Request Feature</a>
   </p>
   <a href="#">
-    <img src="./assets/socialbeingHome.JPG" alt="Logo" width="1080" height="450">
+    <img src="./assets/socialBeingHome.png" alt="Logo" width="1080" height="450">
   </a>
 
 </p>
