@@ -54,6 +54,7 @@ Hey there, welcome to SocialBeing – the social media app that's all about secu
 - Search Functionality: Easily find friends, content, and communities with a robust search feature.
 - Dark Mode: Toggle between light and dark modes for personalized visual preferences.
 - Emoji Keyboard: Express yourself with a wide range of emojis in comments and messages.
+- <i>more coming soon!!</i>
 
 # Built With
 
